@@ -1,0 +1,53 @@
+main {
+  background: rgba(245, 228, 39, 0.2);
+}
+
+
+.banner {
+  overflow: hidden;
+}
+
+.banner-image {
+  height: 550px;
+}
+
+.banner-image img {
+  width: 150%;
+  object-fit: cover;
+}
+
+.banner-content {
+  padding-right: 15px;
+}
+
+.banner-content h1 {
+  font-size: 48px;
+  line-height: 1.5;
+}
+
+.banner-content p {
+  font-size: 24px;
+  line-height: 1.3;
+  margin: 30px 0;
+}
+
+
+.banner-content a {
+  font-size: 12px;
+  text-decoration: underline;
+}
+
+/* ads */
+.ads-item .ads-image {
+  font-size: 80px;
+}
+
+.glow-content h2 {
+  font-size: 60px;
+  line-height: 1.3;
+}
+
+.glow-content p {
+  font-size: 40px;
+  margin-bottom: 30px;
+}
