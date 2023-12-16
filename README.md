@@ -1,1 +1,1 @@
-Tran Dinh Anh Hung From Falcuty of Computer Engineer of University of Science
+Tran Dinh Anh Hung From Falcuty of Computer Engineer of HO CHI MINH City University of Technology
